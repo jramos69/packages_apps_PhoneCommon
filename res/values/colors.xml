@@ -18,7 +18,7 @@
     <!-- Colors for the dialpad -->
     <color name="dialer_theme_color">#2A56C6</color>
     <color name="dialer_theme_color_dark">#1C3AA9</color>
-    <color name="background_dialpad">#fcfcfc</color>
+    <color name="background_dialpad">#f9f9f9</color>
     <color name="background_dialpad_pressed">#ececec</color>
     <color name="dialpad_primary_text_color">@color/dialer_theme_color</color>
     <color name="dialpad_secondary_text_color">#737373</color>
